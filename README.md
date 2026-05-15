@@ -152,25 +152,6 @@ Sending SMS to +91XXXXXXXXXX: Smart Pill Box Alert: Pill-2 Not Taken
 
 ---
 
-## 👩‍💻 Team
-
-| Name | Roll Number |
-|---|---|
-| P. Kesini | 17R21A0445 |
-| G. Sri Priya | 17R21A0421 |
-| R. Akanksha | 17R21A0447 |
-| Shaik Ahmed Pasha | 17R21A0454 |
-
-**Internal Guide:** Mr. V. Arun, Associate Professor, ECE
-
----
-
-## 🏫 Institution
-
-**MLRIT — Marri Laxman Reddy Institute of Technology and Management**
-Affiliated to JNTUH, Hyderabad
-
----
 
 ## 📄 License
 
