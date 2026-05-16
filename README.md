@@ -1,4 +1,4 @@
-# 💊 Smart Medicine Pill Box — Raspberry Pi
+# 💊 Smart Medicine Pill Box - Raspberry Pi
 
 An IoT-based smart pill reminder system that alerts patients to take medication on time, blinks LEDs on the correct pill box, sounds a buzzer, and notifies the caregiver via SMS if medication is not taken.
 
