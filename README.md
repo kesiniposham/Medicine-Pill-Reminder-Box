@@ -12,7 +12,7 @@ Senior citizens and patients with chronic conditions often miss doses or take wr
 
 ## ✨ Features
 
-- ⏰ Three daily dose alarms (9 AM, 12 PM, 9 PM — configurable)
+- ⏰ Three daily dose alarms (9 AM, 12 PM, 9 PM - configurable)
 - 💡 LED blinks on the correct pill box compartment
 - 🔔 Buzzer alarm at dose time
 - 📦 IR sensor detects whether the box was opened
